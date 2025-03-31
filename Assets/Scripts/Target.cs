@@ -33,7 +33,7 @@ public class Target : MonoBehaviour
         
     }
 
-    public void OnMouseDown() //Méthode déjà créer, qui détecte la souris lorsque celui ci clique sur notre collider
+    public void OnMouseDown() //Méthode déjà crée, qui détecte la souris lorsque celui-ci clique sur notre collider
     {
         if (gameManager.gameActive)
         {
